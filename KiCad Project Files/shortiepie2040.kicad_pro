@@ -388,7 +388,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../Design Files/shortiepie2040.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
