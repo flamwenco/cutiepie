@@ -65,12 +65,6 @@
   )
 
   (symbol_instances
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/472c8979-7ac6-4d55-b17b-7343e0aec4ce"
-      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/f00b021b-f169-4f50-82fc-33722522c59b"
-      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/7af0d888-2a70-4b5e-b2c1-ef82dbe86c73/e8ba26a8-b6af-413d-9c75-130a586d8e5d"
       (reference "#PWR0101") (unit 1) (value "+3V3") (footprint "")
     )
@@ -122,26 +116,14 @@
     (path "/7af0d888-2a70-4b5e-b2c1-ef82dbe86c73/550ec867-bc78-47b4-9ee5-c16fd11f9da5"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/7250ab05-fbdf-47e1-9e1e-36f03e4eefb4"
-      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/5110b22c-3862-4a5b-8c3e-e8bfeec37dd9"
-      (reference "#PWR0119") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/b090565d-7cdc-47ba-95e6-a37610a11952"
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
     (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/b6c480fc-5dae-48cb-8f67-4b8dbeeb0fc8"
       (reference "#PWR0121") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/fa3e5f4a-41cc-4f85-b967-74de1cc17e62"
-      (reference "#PWR0122") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/226a0992-2c71-4d11-8746-62eca39f5499"
       (reference "#PWR0123") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/8e65922d-96e0-4630-b134-82dd31c55d84"
-      (reference "#PWR0124") (unit 1) (value "+5V") (footprint "")
     )
     (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/a758f3fc-14e4-459f-ac25-b5bc102ee909"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
@@ -323,9 +305,6 @@
     (path "/765009e9-254e-4f76-82ab-4b2221ccc765/60a97b29-04dd-47eb-b8c1-fc512f78011f"
       (reference "D38") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/d02f8ec2-c4d0-47c9-bb5e-18e4f6639ff4"
-      (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_0805_2012Metric")
-    )
     (path "/b9445827-6da2-4ff6-93b7-932636e4306d/9fc25a8b-4143-4ef2-b06c-de920c622bc2"
       (reference "H1") (unit 1) (value "PCB Outline") (footprint "")
     )
@@ -441,7 +420,7 @@
       (reference "MX35") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
     (path "/765009e9-254e-4f76-82ab-4b2221ccc765/33a7df37-4fda-447f-9a80-74aae92705e0"
-      (reference "MX36") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX36") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/765009e9-254e-4f76-82ab-4b2221ccc765/0ab76a51-3e93-4615-95c7-dfb2641809c1"
       (reference "MX37") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
@@ -468,16 +447,13 @@
       (reference "SW1") (unit 1) (value "Reset") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
     )
     (path "/7af0d888-2a70-4b5e-b2c1-ef82dbe86c73/9a2ff9c3-cfbc-4cac-9d9b-475059a511a1"
-      (reference "U1") (unit 1) (value "RP2040") (footprint "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
+      (reference "U1") (unit 1) (value "RP2040") (footprint "cipulot_parts:RP2040-QFN-56")
     )
     (path "/7af0d888-2a70-4b5e-b2c1-ef82dbe86c73/474fc709-5e01-4c20-87e4-d19de0a98647"
       (reference "U2") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/c8155fea-a2b9-4587-8096-2e043446b609"
       (reference "U3") (unit 1) (value "XC6206PxxxMR") (footprint "Package_TO_SOT_SMD:SOT-23")
-    )
-    (path "/e5091371-2c8b-44aa-8806-1cb3988c9dd1/c423be61-2c13-4611-b57f-a3af662574a2"
-      (reference "U4") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts:SOT143B")
     )
     (path "/7af0d888-2a70-4b5e-b2c1-ef82dbe86c73/4c691f56-5ae4-4513-9d70-bfc023fc9c97"
       (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")

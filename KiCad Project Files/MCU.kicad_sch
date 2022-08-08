@@ -700,6 +700,7 @@
     )
   )
 
+
   (junction (at 243.84 111.76) (diameter 0) (color 0 0 0 0)
     (uuid 0596c1d0-7ab9-465b-a4ff-62cffc9df25a)
   )
@@ -1891,7 +1892,7 @@
     (property "Value" "RP2040" (id 1) (at 59.69 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm" (id 2) (at 63.5 81.28 0)
+    (property "Footprint" "cipulot_parts:RP2040-QFN-56" (id 2) (at 63.5 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf" (id 3) (at 63.5 81.28 0)
