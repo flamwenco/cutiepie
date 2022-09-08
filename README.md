@@ -3,7 +3,7 @@ A funky little 10.5u with cain-style spacebars. Support for 3u and 4u spacebar b
 
 
 ## Layout options
-todo
+<img width="673" alt="layouts" src="https://user-images.githubusercontent.com/2542062/189012236-82d1c22b-16fd-4c5c-a58e-53a78203e5e6.png">
 
 ## Production files
 Protos have been ordered and confirmed to work, but I am not responsible for your orders with a pcb manu. No support will be provided. Order at your own risk.
