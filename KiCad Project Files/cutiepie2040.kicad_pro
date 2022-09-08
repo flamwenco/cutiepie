@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.47,
+          "height": 2.25,
+          "width": 2.25
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -56,6 +56,7 @@
         }
       ],
       "drc_exclusions": [
+        "courtyards_overlap|85030001|62570001|32595f6c-aa09-4645-a993-20d20f9c14cd|33291dbf-edef-4e51-ba18-f3dfd0105189",
         "courtyards_overlap|85030001|62570001|33291dbf-edef-4e51-ba18-f3dfd0105189|32595f6c-aa09-4645-a993-20d20f9c14cd"
       ],
       "meta": {
@@ -354,7 +355,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "shortiepie2040.kicad_pro",
+    "filename": "cutiepie2040.kicad_pro",
     "version": 1
   },
   "net_settings": {
