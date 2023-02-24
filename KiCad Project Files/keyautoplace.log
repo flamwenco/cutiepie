@@ -1,0 +1,14 @@
+00:32:03 com_github_bouni_kicad-jlcpcb-tools.library 57: Data directory 'jlcpcb' does not exist and will be created.
+00:32:03 com_github_bouni_kicad-jlcpcb-tools.library 195: Create SQLite table for rotations
+00:32:04 com_github_bouni_kicad-jlcpcb-tools.library 380: Download parts db with a size of 53.06MB
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX35 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX4 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX23 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX12 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX19 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX4 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX19 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX19 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX23 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX35 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
+00:32:08 com_github_bouni_kicad-jlcpcb-tools.store 231: Part MX12 is already in the database but value, footprint, bom or pos values changed in the board file, part will be updated, lcsc overwritten/cleared.
