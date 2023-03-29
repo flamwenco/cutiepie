@@ -1,5 +1,5 @@
 # cutiepie
-A funky little 10.5u with dual 1.75u spacebars. Support for 3u and 4u spacebar bottom row layouts has been added, but there is not currently support for 2u's. If you want to use split space with this, use 1.75u's!
+A funky little 10.5u with dual 1.75u spacebars. Support for 3u and 4u spacebar bottom row layouts has been added, as well as support for 2x2u's using the 4u top. 2u's are forced stabless, otherwise a redesign of the pcb layout would have been necessitated.
 
 ## Layout options
 <img width="673" alt="layouts" src="https://user-images.githubusercontent.com/2542062/189012236-82d1c22b-16fd-4c5c-a58e-53a78203e5e6.png">
