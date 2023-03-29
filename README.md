@@ -2,7 +2,8 @@
 A funky little 10.5u with dual 1.75u spacebars. Support for 3u and 4u spacebar bottom row layouts has been added, as well as support for 2x2u's using the 4u top. 2u's are forced stabless, otherwise a redesign of the pcb layout would have been necessitated.
 
 ## Layout options
-<img width="673" alt="layouts" src="https://user-images.githubusercontent.com/2542062/189012236-82d1c22b-16fd-4c5c-a58e-53a78203e5e6.png">
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/2542062/228435606-0b39249d-82b1-4044-99c2-dcd5d46f7e26.png">
+
 
 ## Production files
 The current version of this pcb that supports all above layouts has been ordered and confirmed to work, but I am not responsible for your orders with a pcb manu. No support will be provided, order at your own risk.
