@@ -66,18 +66,27 @@
         "annular_width|72225000|82325000|20b40300-e2d3-4706-8e13-c699ae4a7d5c|00000000-0000-0000-0000-000000000000",
         "annular_width|72225000|83600000|827dc9e3-2051-40ee-8ef4-700f66bad6b1|00000000-0000-0000-0000-000000000000",
         "annular_width|72225000|84875000|2c5648db-69ff-4c9f-8ac9-359701803038|00000000-0000-0000-0000-000000000000",
+        "annular_width|83630000|59250000|fe1afc2c-ef8e-4b2c-8b0e-0f28d6ba1a8b|00000000-0000-0000-0000-000000000000",
         "annular_width|84780000|61250000|fe1afc2c-ef8e-4b2c-8b0e-0f28d6ba1a8b|00000000-0000-0000-0000-000000000000",
+        "annular_width|84900000|59250000|eadc2da2-395b-49e2-b7c0-c7265292780e|00000000-0000-0000-0000-000000000000",
         "annular_width|86050000|61250000|eadc2da2-395b-49e2-b7c0-c7265292780e|00000000-0000-0000-0000-000000000000",
         "courtyards_overlap|85030001|62570001|32595f6c-aa09-4645-a993-20d20f9c14cd|33291dbf-edef-4e51-ba18-f3dfd0105189",
         "courtyards_overlap|85030001|62570001|33291dbf-edef-4e51-ba18-f3dfd0105189|32595f6c-aa09-4645-a993-20d20f9c14cd",
+        "hole_clearance|135437500|108957500|1a165196-a6c9-4e82-9669-629bd4b1b755|d3e5f4d9-4839-4da0-ab90-1c57b7923666",
         "hole_clearance|135437500|108957500|388801ec-b30d-4d98-9410-78d62a08ef7c|d3e5f4d9-4839-4da0-ab90-1c57b7923666",
+        "hole_clearance|164012500|117212500|0cacd493-89d9-4cd8-9fb2-0e24a27afa4a|8a8e8f32-7fc3-4224-957d-343a44713983",
         "hole_clearance|164012500|117212500|a52adebb-aa6d-448a-b359-e41dcd55e4fa|8a8e8f32-7fc3-4224-957d-343a44713983",
         "hole_clearance|224813750|52887000|5e512cfd-e7cc-452d-9e67-204742263876|6063a324-0d40-4309-ae33-e20462172318",
         "hole_clearance|226907651|52760000|4fa6f1fe-6cf7-4451-81fd-089b483a3cbb|6063a324-0d40-4309-ae33-e20462172318",
         "hole_clearance|54475000|112450000|14660efb-b74e-448c-be65-8398e213aa8f|2aa1b6ce-3132-4a9b-acb0-116de544de53",
+        "hole_clearance|54475000|112450000|d464d910-ab28-4c89-9912-86be741c3a78|2aa1b6ce-3132-4a9b-acb0-116de544de53",
+        "holes_co_located|173537500|108957500|a78463b5-a804-448a-8112-c526901683d1|4cfa009e-4385-47fe-b3f0-9b0d0f676dc0",
+        "holes_co_located|173537500|124197500|beb56187-972b-4d57-b1f9-e4fccfb74cbc|a2136775-dc2d-4580-b96e-cd5f2901dfb7",
+        "solder_mask_bridge|163298125|115942500|0cacd493-89d9-4cd8-9fb2-0e24a27afa4a|8a8e8f32-7fc3-4224-957d-343a44713983",
         "solder_mask_bridge|163298125|115942500|a52adebb-aa6d-448a-b359-e41dcd55e4fa|8a8e8f32-7fc3-4224-957d-343a44713983",
         "solder_mask_bridge|225845625|52823500|6063a324-0d40-4309-ae33-e20462172318|5e512cfd-e7cc-452d-9e67-204742263876",
-        "solder_mask_bridge|53760625|111180000|14660efb-b74e-448c-be65-8398e213aa8f|2aa1b6ce-3132-4a9b-acb0-116de544de53"
+        "solder_mask_bridge|53760625|111180000|14660efb-b74e-448c-be65-8398e213aa8f|2aa1b6ce-3132-4a9b-acb0-116de544de53",
+        "solder_mask_bridge|53760625|111180000|d464d910-ab28-4c89-9912-86be741c3a78|2aa1b6ce-3132-4a9b-acb0-116de544de53"
       ],
       "meta": {
         "version": 2
@@ -92,7 +101,7 @@
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
-        "duplicate_footprints": "warning",
+        "duplicate_footprints": "ignore",
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_type_mismatch": "error",
@@ -437,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "cutiepie2040.kicad_pro",
+    "filename": "cutiepie2040_ortho.kicad_pro",
     "version": 1
   },
   "net_settings": {
