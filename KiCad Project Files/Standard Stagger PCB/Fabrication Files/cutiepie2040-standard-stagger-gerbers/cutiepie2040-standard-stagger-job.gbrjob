@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "7.0.6"
     },
-    "CreationDate": "2023-07-18T23:25:52-04:00"
+    "CreationDate": "2023-07-18T22:48:21-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "cutiepie2040-hotswap",
-      "GUID": "63757469-6570-4696-9532-3034302d686f",
+      "Name": "cutiepie2040-standard-stagger",
+      "GUID": "63757469-6570-4696-9532-3034302d7374",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 200.2308,
+      "X": 200.2309,
       "Y": 81.1693
     },
     "LayerNumber": 2,
@@ -34,62 +34,62 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "cutiepie2040-hotswap-F_Cu.gtl",
+      "Path": "cutiepie2040-standard-stagger-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-B_Cu.gbl",
+      "Path": "cutiepie2040-standard-stagger-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-F_Paste.gtp",
+      "Path": "cutiepie2040-standard-stagger-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-B_Paste.gbp",
+      "Path": "cutiepie2040-standard-stagger-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-F_Silkscreen.gto",
+      "Path": "cutiepie2040-standard-stagger-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-B_Silkscreen.gbo",
+      "Path": "cutiepie2040-standard-stagger-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-F_Mask.gts",
+      "Path": "cutiepie2040-standard-stagger-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cutiepie2040-hotswap-B_Mask.gbs",
+      "Path": "cutiepie2040-standard-stagger-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cutiepie2040-hotswap-User_Drawings.gbr",
+      "Path": "cutiepie2040-standard-stagger-User_Drawings.gbr",
       "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-Edge_Cuts.gm1",
+      "Path": "cutiepie2040-standard-stagger-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-F_Fab.gbr",
+      "Path": "cutiepie2040-standard-stagger-F_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cutiepie2040-hotswap-B_Fab.gbr",
+      "Path": "cutiepie2040-standard-stagger-B_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
@@ -105,29 +105,24 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
