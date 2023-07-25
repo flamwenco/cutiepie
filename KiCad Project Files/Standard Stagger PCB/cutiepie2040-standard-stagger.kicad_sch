@@ -1,0 +1,51 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0bc94950-f950-4f48-816a-6d2035325b5b)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 16.51 17.78) (size 64.77 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 236 36 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 765009e9-254e-4f76-82ab-4b2221ccc765)
+    (property "Sheetname" "Switch Matrix (Standard Stagger)" (at 16.51 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Switch Matrix-standard-stagger.kicad_sch" (at 16.51 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cutiepie2040-standard-stagger"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 100.33 17.78) (size 72.39 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 24 33 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7af0d888-2a70-4b5e-b2c1-ef82dbe86c73)
+    (property "Sheetname" "MCU Component (Standard Stagger)" (at 100.33 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU-standard-stagger.kicad_sch" (at 100.33 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 100.33 17.78 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "cutiepie2040-standard-stagger"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
