@@ -4,10 +4,9 @@ A funky little 10.5u with dual 1.75u spacebars. Support for 3u and 4u spacebar b
 ## Layout options
 <img width="670" alt="image" src="https://user-images.githubusercontent.com/2542062/228435606-0b39249d-82b1-4044-99c2-dcd5d46f7e26.png">
 
-An ortho pcb is also now available (currently untested) with the following layout:
-<img width="670" alt="image" src="https://github.com/flamwenco/cutiepie/blob/mistress/KiCad Project Files/Ortho PCB/ortho layouts.png?raw=true">
+An ortho pcb is also now available as well.
 
-Both layouts use the same vial firmware, so the ortho pcb will still appear as staggered in vial.
+The vial firmware has been updated to visually support uniform stagger, regular stagger, and ortho, but your existing firmware will also work since the pinouts have not changed.
 
 
 ## Production files
