@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0bc94950-f950-4f48-816a-6d2035325b5b)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 16.51 17.78) (size 64.77 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 236 36 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 765009e9-254e-4f76-82ab-4b2221ccc765)
+    (property "Sheetname" "Switch Matrix" (at 16.51 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Switch Matrix.kicad_sch" (at 16.51 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cutiepie2040_ortho"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 100.33 17.78) (size 72.39 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 24 33 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7af0d888-2a70-4b5e-b2c1-ef82dbe86c73)
+    (property "Sheetname" "MCU Components" (at 100.33 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 100.33 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cutiepie2040_ortho"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 16.51 113.03) (size 64.77 68.58) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 255 168 0 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid b9445827-6da2-4ff6-93b7-932636e4306d)
+    (property "Sheetname" "Misc" (at 16.51 112.3184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Misc.kicad_sch" (at 16.51 182.1946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cutiepie2040_ortho"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 196.85 17.78) (size 72.39 67.31) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 255 5 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid e5091371-2c8b-44aa-8806-1cb3988c9dd1)
+    (property "Sheetname" "USB & Power" (at 196.85 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB.kicad_sch" (at 196.85 85.6746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "cutiepie2040_ortho"
+        (path "/0bc94950-f950-4f48-816a-6d2035325b5b" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

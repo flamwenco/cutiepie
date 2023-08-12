@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "acheron_Components")(type "KiCad")(uri "/Users/dan/Developer/cutiepie2040/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "/Users/dan/Developer/cutiepie2040/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "/Users/dan/Developer/cutiepie2040/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "cipulot_parts")(type "KiCad")(uri "/Users/dan/Developer/cutiepie2040/cipulot_kicad_parts/cipulot_parts.pretty")(options "")(descr ""))
+  (lib (name "Other Footprints")(type "KiCad")(uri "/Users/dan/Developer/cutiepie2040/Other Footprints")(options "")(descr ""))
+)
