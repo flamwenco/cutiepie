@@ -4,6 +4,10 @@ A funky little 10.5u with dual 1.75u spacebars. Support for 3u and 4u spacebar b
 ## Layout options
 <img width="670" alt="image" src="https://user-images.githubusercontent.com/2542062/228435606-0b39249d-82b1-4044-99c2-dcd5d46f7e26.png">
 
+An ortho pcb is also now available as well.
+
+The vial firmware has been updated to visually support uniform stagger, regular stagger, and ortho, but your existing firmware will also work since the pinouts have not changed.
+
 
 ## Production files
 The current version of this pcb that supports all above layouts has been ordered and confirmed to work, but I am not responsible for your orders with a pcb manu. No support will be provided, order at your own risk.
