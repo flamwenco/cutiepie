@@ -20,7 +20,7 @@ Included in this directory are several PCB and plate files for Cutiepie by Flamw
 
 -Hotswap, Dual Stagger PCB
 	-Made to replace uniform and standard stagger hotswap PCBs by supporting both layouts
-	-Restores ISO P key support, but without stabilizers.
+	-Restores ISO P key support. To access stab support for ISO P, it is necessary to remove the hotswap socket for 1.5u P. Alternatively, a custom plate can be cut to support  a plate mount stabilizer. DXF and Gerber files for that plate will be made available in the repo.
 	-Other features and case requirements are identical to the PCBs being replaced.
 
 -Hotswap and Solder, Ortho PCB
@@ -28,7 +28,7 @@ Included in this directory are several PCB and plate files for Cutiepie by Flamw
 	-Supports 2x2u, 4u, and 2x1.75u spacebar layouts from original Flamwenco orthopie design.
 	-2x1.75u spacebar layout is solder only and requires the removal of a breakaway tab to fit the appropriate case.
 	-3u spacebar layout is not supported.
-	-All supported layouts can be soldered.
+	-All supported layouts can be soldered. Soldered switches will be north-facing. Hotswap sockets are south-facing.
 	-Compatible with vial firmware release for "orthopie" PCB due to 1-for-1 pinout match.
 
 -Solder Only, Dual Stagger (Uniform and Standard) BLE PCB
@@ -42,9 +42,9 @@ Included in this directory are several PCB and plate files for Cutiepie by Flamw
 	-Custom ZMK firmware
 
 -Dual Stagger Plate
-	-Maintains ISO switch and stabilizers support for future compatibility with symmetrical case PCBs supporting ISO Enter.
+	-Maintains ISO switch and stabilizers support.
 	-"Z" row switch cutouts support both standard and uniform stagger.
-	-May be difficult to achieve perfect left-to-right alignment with 3-pin switches.
+	-May be difficult to achieve perfect left-to-right alignment with 3-pin switches. 5-pin is recommended.
 	-Gerbers for FR4 plates included with KiCad project files.
 
 -Standard Stagger and Uniform Stagger Plates (separate)
@@ -52,7 +52,7 @@ Included in this directory are several PCB and plate files for Cutiepie by Flamw
 	-Separate plates for each stagger option for better alignment with 3-pin switches.
 	-Gerbers for FR4 plates included with KiCad project files.
 
--Ortho and Dual Stagger Plate
+-Ortho Plus Dual Stagger Universal Plate
 	-Supports both ortho and stagger layout options.
 	-Supports only 2x2u and 4u spacebar layouts.
 	-Supports ISO P key with stabilizers.
