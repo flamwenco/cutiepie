@@ -1,4 +1,9 @@
 Included in this directory are several PCB and plate files for Cutiepie by Flamwenco. Pay close attention to compatibility notes. Most of these PCB's and plates are NOT compatible with the original 2x1.75u and 3u case tops, or the original non-symmetrical case bottom. Choose a plate option that will support your desired layout, including stabilizers.
+
+UPDATE: Added models for thick plates at /Baconspoon_Hotswap_and_BLE_PCBs/thick-plate-models. There are separate models for standard row stagger, uniform row stagger, and ortho. All three plates are for the 2x2u or 4u spacebar layout only. Stagger plates support the ISO P-key.
+
+UPDATE: Added model for ortho PCB top case at /Case Files/Symmetrical 4u 2x2u Case/Orthopie Top Case - Baconspoon
+This model is only compatible with the symmetrical case (2x2u or 4u spacebar) and add a central half unit blocker where the two alpha sections split.
 	
 -Hotswap, Uniform Stagger PCB
 	-Integrated RP2040
